@@ -16,7 +16,7 @@ Hi, I'm AYO-ARINOLA ENIOLUWA, a passionate Data Analyst focused on leveraging **
 
 Here are some of the projects I've worked on:
 
-### 1. [E-Commerce Sales Analysis](#)  
+### 1. [E-Commerce Sales Analysis](https://github.com/semigod-dot-com/MY-PROJECTS/blob/main/Ecommerce.ipynb)  
    - **Description:** Analyzed sales data from an e-commerce platform, identifying top-selling products, customer segments, and trends.
    - **Skills:** Python, Pandas, Matplotlib
 
