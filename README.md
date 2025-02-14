@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
    - **Description:** Analyzed sales data from an e-commerce platform, identifying top-selling products, customer segments, and trends.
    - **Skills:** Python, Pandas, Matplotlib
 
-### 2. [Healthcare Data Analysis](#)  
+### 2. [Healthcare Data Analysis](https://github.com/semigod-dot-com/Healthcare-data/blob/main/Healthcare_analysis.ipynb)  
    - **Description:** Analyzed healthcare data to find trends in patient information and medical statistics.
    - **Skills:** Pandas, Data Cleaning, Visualization
 
