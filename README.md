@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
    - **Description:** Analyzed healthcare data to find trends in patient information and medical statistics.  
    - **Skills:** Pandas, Data Cleaning, Visualization  
 
-### 3. **[sales data cleaning](#)**  
+### 3. **[sales data cleaning](https://github.com/semigod-dot-com/sql/blob/main/sales_data_analysis(eda).sql)**  
    - **Description:** found the data on kaggle hub and cleaned the data, i specified the clesning process in the project.  
    - **Skills:** mainly an sql project ; so i used only sql cleaning functions.  
 
