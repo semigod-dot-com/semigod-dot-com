@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 ## 📈 Current Focus
 
 I’m currently focusing on:
-- **Deepening my understanding of machine learning** and predictive models.
+- **Deepening my understanding and transitioning to data engineering.
 - **Working on end-to-end data analysis projects** from data gathering to presentation.
 
 ---
