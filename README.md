@@ -47,7 +47,7 @@ I’m currently focusing on:
 Feel free to reach out if you're interested in collaborating or learning more about data analysis:
 
 - **Email:** ayoarinolaenioluwa@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ayo-arinola-enioluwa-27640934a)  
 - **WhatsApp:** +2349130624909  
 
 ---
