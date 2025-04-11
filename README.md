@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
    - **Description:** i did insights on the companies performance in different aspects this was an exploratory analysis on the project i cleaned.  
    - **Skills:** MYSQL.
 
-### 5. **[interactive business insights dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/path-to-dashboard-file.twbx)**  
+### 5. **[interactive business insights dashboard](https://github.com/semigod-dot-com/tableau-projects/blob/main/Hr%20data%20insights.twbx)**  
 - **Description:** Built a Tableau dashboard to analyze and visualize company sales performance, allowing users to explore trends across products, regions, and time periods. Included interactive filters and KPIs for a deeper understanding of business insights.  
 - **Skills:** Tableau, Data Visualization, Dashboard Design
 
