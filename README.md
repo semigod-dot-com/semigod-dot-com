@@ -1,75 +1,65 @@
-# Welcome to My GitHub Profile! 👋
+# 📊 Ayo-Arinola Enioluwa — Data Analyst Portfolio
 
-Hi, I'm AYO-ARINOLA ENIOLUWA, a passionate Data Analyst focused on leveraging **Python** for data analysis, visualization, and insights. I'm enthusiastic about turning complex datasets into actionable insights, and I enjoy tackling challenging data problems. Here, you'll find various projects where I apply my skills in data cleaning, exploratory data analysis (EDA), data visualization, and more!
-
----
-
-## 🔧 My Skills
-
-- **Languages & Tools:** Python, Pandas, Matplotlib, Seaborn, SQL, Jupyter Notebooks, Git  
-- **Data Analysis Techniques:** Data Wrangling, Exploratory Data Analysis (EDA), Time Series Analysis, Predictive Analytics  
-- **Visualization Tools:** Matplotlib, Seaborn  
+Welcome to my Data Analytics portfolio! I'm Ayo-Arinola Enioluwa, a Data Analyst with a growing focus on becoming a **Data Engineer** and **Cloud Solutions Architect**. I’m passionate about transforming raw data into powerful insights and building scalable data-driven solutions. This repository showcases projects I've worked on using Python, SQL, and Tableau.
 
 ---
 
-## 📂 Featured Projects
+## 🔍 About Me
 
-Here are some of the projects I've worked on:
-
-### 1. [E-Commerce Sales Analysis](https://github.com/semigod-dot-com/MY-PROJECTS/blob/main/Ecommerce.ipynb)  
-   - **Description:** Analyzed sales data from an e-commerce platform, identifying top-selling products, customer segments, and trends.  
-   - **Skills:** Python, Pandas, Matplotlib  
-
-### 2. [Healthcare Data Analysis](https://github.com/semigod-dot-com/Healthcare-data/blob/main/Healthcare_analysis.ipynb)  
-   - **Description:** Analyzed healthcare data to find trends in patient information and medical statistics.  
-   - **Skills:** Pandas, Data Cleaning, Visualization  
-
-### 3. **[sales data cleaning](https://github.com/semigod-dot-com/sql/blob/main/sales_data_analysis(data%20cleaning).sql)**  
-   - **Description:** found the data on kaggle hub and cleaned the data, i specified the clesning process in the project.  
-   - **Skills:** mainly an sql project ; so i used only sql cleaning functions.  
-
-### 4. **[sales data exploratory analysis](https://github.com/semigod-dot-com/sql/blob/main/sales_data_analysis(eda).sql)**  
-   - **Description:** i did insights on the companies performance in different aspects this was an exploratory analysis on the project i cleaned.  
-   - **Skills:** MYSQL.
-
-### 5. **[interactive business insights dashboard](https://github.com/semigod-dot-com/tableau-projects/blob/main/Hr%20data%20insights.twbx)**  
-- **Description:** Built a Tableau dashboard to analyze and visualize company sales performance, allowing users to explore trends across products, regions, and time periods. Included interactive filters and KPIs for a deeper understanding of business insights.  
-- **Skills:** Tableau, Data Visualization, Dashboard Design
+I thrive on solving real-world problems with data and automation. With internship experience and several hands-on projects, I am committed to continuous learning and building a solid foundation in analytics, cloud computing, and big data engineering.
 
 ---
 
-## 📈 Current Focus
+## 🛠️ Skills
 
-I’m currently focusing on:
-- **Deepening my understanding and transitioning to data engineering.**  
-- **Working on end-to-end data analysis projects** from data gathering to presentation.  
+- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
+- **Data Visualization:** Tableau, Matplotlib, Seaborn  
+- **Tools & Platforms:** Jupyter Notebook, Excel, Git, VS Code  
+- **Core Concepts:** EDA, Data Cleaning, Descriptive Statistics, Sentiment Analysis, Customer Segmentation  
+- **Learning Path:** Data Engineering, AWS Cloud, Apache Spark, Docker, Airflow
 
 ---
 
-## 🌐 Connect with Me
+## 📁 Projects
 
-Feel free to reach out if you're interested in collaborating or learning more about data analysis:
+### [1. Customer Segmentation Using K-Means Clustering](#)  
+*Python, Pandas, Matplotlib, Scikit-learn*  
+Segmented customers based on behavioral and purchase data using K-Means clustering. Identified marketing opportunities based on segment traits.
+
+### [2. Sentiment Analysis on Product Reviews](#)  
+*Python, NLTK, Matplotlib*  
+Performed sentiment classification on customer reviews. Visualized sentiment breakdown to support customer feedback strategies.
+
+### [3. Retail Sales Data Analysis](#)  
+*Python, Pandas, Matplotlib*  
+Analyzed seasonal trends, top products, and purchasing behaviors in retail data. Created insightful visualizations to guide business decisions.
+
+### [4. Airbnb Furnished Property Data Analysis](#)  
+*SQL*  
+Queried and analyzed Airbnb data to uncover pricing trends, popular listings, and customer preferences using SQL operations.
+
+### [5. Sales Data Exploratory Analysis](#)  
+*SQL*  
+Conducted EDA on sales data using SQL queries. Identified peak revenue periods and high-performing products.
+
+### [6. HR Data Insights Dashboard](#)  
+*Tableau*  
+Designed a dynamic HR dashboard to track attrition, compensation, and satisfaction trends. Provided actionable insights for human resource planning.
+
+---
+
+## 🧾 Resume
+
+📄 [Click here to view my resume](https://github.com/semigod-dot-com/resume.pdf) *(Replace this with your actual file link)*
+
+---
+
+## 📫 Contact
 
 - **Email:** ayoarinolaenioluwa@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/ayo-arinola-enioluwa-27640934a] 
-- **WhatsApp:** +2349130624909  
+- **LinkedIn:** [ayo-arinola-enioluwa](https://www.linkedin.com/in/ayo-arinola-enioluwa-27640934a)  
+- **GitHub:** [semigod-dot-com](https://github.com/semigod-dot-com)
 
 ---
 
-## 🎯 Fun Facts
-
-- I love experimenting with new datasets and uncovering hidden insights.  
-- In my free time, you’ll find me reading up on the latest trends in **AI** and **data science**.  
-- I’m always open to **learning** and **collaborating** on exciting data-related projects!  
-
----
-
-## 🚀 Open to Opportunities
-
-I’m always looking for new challenges and opportunities to collaborate. If you’re interested in working together, feel free to reach out!  
-
----
-
-## 📝 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+Thanks for stopping by! Feel free to explore the projects, give feedback, or connect with me professionally.
