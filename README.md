@@ -22,7 +22,7 @@ I thrive on solving real-world problems with data and automation. With internshi
 
 ## 📁 Projects
 
-### [1. Customer Segmentation Using K-Means Clustering](#)  
+### [1. Customer Segmentation Using K-Means Clustering](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/customer%20segmentation(oasisinfobyte).ipynb)  
 *Python, Pandas, Matplotlib, Scikit-learn*  
 Segmented customers based on behavioral and purchase data using K-Means clustering. Identified marketing opportunities based on segment traits.
 
