@@ -26,23 +26,23 @@ I thrive on solving real-world problems with data and automation. With internshi
 *Python, Pandas, Matplotlib, Scikit-learn*  
 Segmented customers based on behavioral and purchase data using K-Means clustering. Identified marketing opportunities based on segment traits.
 
-### [2. Sentiment Analysis on Product Reviews](#)  
+### [2. Sentiment Analysis on Product Reviews](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/SENTIMENTAL%20ANALYSIS(oasisinfobyte).ipynb)  
 *Python, NLTK, Matplotlib*  
 Performed sentiment classification on customer reviews. Visualized sentiment breakdown to support customer feedback strategies.
 
-### [3. Retail Sales Data Analysis](#)  
+### [3. Retail Sales Data Analysis](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/RETAIL%20SALES%20DATA(oasisinfobyte)%20(1).ipynb)  
 *Python, Pandas, Matplotlib*  
 Analyzed seasonal trends, top products, and purchasing behaviors in retail data. Created insightful visualizations to guide business decisions.
 
-### [4. Airbnb Furnished Property Data Analysis](#)  
+### [4. Airbnb Furnished Property Data Analysis](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/airbnbfurnisheddata(oasisinfobyte).sql)  
 *SQL*  
 Queried and analyzed Airbnb data to uncover pricing trends, popular listings, and customer preferences using SQL operations.
 
-### [5. Sales Data Exploratory Analysis](#)  
+### [5. Sales Data Exploratory Analysis](https://github.com/semigod-dot-com/sql/blob/main/sales_data_analysis(eda).sql)  
 *SQL*  
 Conducted EDA on sales data using SQL queries. Identified peak revenue periods and high-performing products.
 
-### [6. HR Data Insights Dashboard](#)  
+### [6. HR Data Insights Dashboard](https://github.com/semigod-dot-com/tableau-projects/blob/main/Hr%20data%20insights.twbx)  
 *Tableau*  
 Designed a dynamic HR dashboard to track attrition, compensation, and satisfaction trends. Provided actionable insights for human resource planning.
 
