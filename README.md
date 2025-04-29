@@ -50,7 +50,7 @@ Designed a dynamic HR dashboard to track attrition, compensation, and satisfacti
 
 ## 🧾 Resume
 
-📄 [Click here to view my resume](https://github.com/semigod-dot-com/resume.pdf) *(Replace this with your actual file link)*
+📄 [Click here to view my resume](https://github.com/semigod-dot-com/resume.pdf)
 
 ---
 
