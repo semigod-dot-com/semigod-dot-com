@@ -1,65 +1,69 @@
-# 📊 Ayo-Arinola Enioluwa — Data Analyst Portfolio
+# ⚙️ Enioluwa Israel - Data Engineer | Data Analyst | AI/ML
 
-Welcome to my Data Analytics portfolio! I'm Ayo-Arinola Enioluwa, a Data Analyst with a growing focus on becoming a **Data Engineer** and **Cloud Solutions Architect**. I’m passionate about transforming raw data into powerful insights and building scalable data-driven solutions. This repository showcases projects I've worked on using Python, SQL, and Tableau.
-
----
-
-## 🔍 About Me
-
-I thrive on solving real-world problems with data and automation. With internship experience and several hands-on projects, I am committed to continuous learning and building a solid foundation in analytics, cloud computing, and big data engineering.
+**Email:** ayoarinolaenioluwa@gmail.com
+**LinkedIn:** [YOUR LINKEDIN URL HERE] (e.g., http://www.linkedin.com/in/israel-dev-194b8136b)
+**GitHub:** [YOUR GITHUB PROFILE URL HERE] (e.g., https://github.com/semigod-dot-com)
 
 ---
 
-## 🛠️ Skills
+## 🚀 Professional Summary
 
-- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Tools & Platforms:** Jupyter Notebook, Excel, Git, VS Code  
-- **Core Concepts:** EDA, Data Cleaning, Descriptive Statistics, Sentiment Analysis, Customer Segmentation  
-- **Learning Path:** Data Engineering, AWS Cloud, Apache Spark, Docker, Airflow
+A results-oriented **Data Engineer** with 1–2 years of experience designing scalable data pipelines using modern tools such as **Airflow**, **Spark**, **Kafka**, **dbt**, and cloud platforms (**AWS & GCP**). Skilled in data modeling, batch and streaming ETL/ELT architectures, and automation. Adept at solving real-world data infrastructure challenges, including successfully replacing a production-grade streaming extension with a custom ETL pipeline.
 
 ---
 
-## 📁 Projects
+## 🛠️ Technical Toolkit
 
-### [1. Customer Segmentation Using K-Means Clustering](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/customer%20segmentation(oasisinfobyte).ipynb)  
-*Python, Pandas, Matplotlib, Scikit-learn*  
-Segmented customers based on behavioral and purchase data using K-Means clustering. Identified marketing opportunities based on segment traits.
-
-### [2. Sentiment Analysis on Product Reviews](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/SENTIMENTAL%20ANALYSIS(oasisinfobyte).ipynb)  
-*Python, NLTK, Matplotlib*  
-Performed sentiment classification on customer reviews. Visualized sentiment breakdown to support customer feedback strategies.
-
-### [3. Retail Sales Data Analysis](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/RETAIL%20SALES%20DATA(oasisinfobyte)%20(1).ipynb)  
-*Python, Pandas, Matplotlib*  
-Analyzed seasonal trends, top products, and purchasing behaviors in retail data. Created insightful visualizations to guide business decisions.
-
-### [4. Airbnb Furnished Property Data Analysis](https://github.com/semigod-dot-com/oasisinfobyte/blob/main/airbnbfurnisheddata(oasisinfobyte).sql)  
-*SQL*  
-Queried and analyzed Airbnb data to uncover pricing trends, popular listings, and customer preferences using SQL operations.
-
-### [5. Sales Data Exploratory Analysis](https://github.com/semigod-dot-com/sql/blob/main/sales_data_analysis(eda).sql)  
-*SQL*  
-Conducted EDA on sales data using SQL queries. Identified peak revenue periods and high-performing products.
-
-### [6. HR Data Insights Dashboard](https://github.com/semigod-dot-com/tableau-projects/blob/main/Hr%20data%20insights.twbx)  
-*Tableau*  
-Designed a dynamic HR dashboard to track attrition, compensation, and satisfaction trends. Provided actionable insights for human resource planning.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Tools** | Python, SQL, Bash, Git, Docker, dbt, Node.js, YAML, JavaScript |
+| **Data Engineering** | Apache Airflow, Apache Spark, Kafka, Kestra, Apache Hive |
+| **Cloud & Infrastructure** | AWS (S3, Glue, Lambda, Redshift), GCP (BigQuery, GCS, Firestore), PostgreSQL |
+| **Data Modeling** | Dimensional Modeling, Star/Snowflake Schema, SCD, OLAP/OLTP |
+| **Visualization** | Metabase, Tableau, Excel |
 
 ---
 
-## 🧾 Resume
+## 💡 Key Projects Showcase
 
-📄 [Click here to view my resume](https://github.com/semigod-dot-com/resume.pdf)
+### 1. Firestore → BigQuery Custom ETL Pipeline (Node.js/BigQuery MERGE)
+* **Tech Stack:** Node.js, Firestore, GitHub Actions, GCS, BigQuery (SQL MERGE).
+* **Goal:** Replaced the deprecated official Firestore-BigQuery streaming extension.
+* **Architecture:** Built a **Node.js** script with **GitHub Actions** for data extraction/staging in **GCS**.
+* **Key Feature:** Developed a **BigQuery MERGE SQL** process to upsert daily transactions (~20 transactions/day) into production tables, ensuring accuracy and deduplication.
+
+### 2. Airbnb Batch Data Pipeline (PySpark & Airflow ELT)
+* **Tech Stack:** PySpark, Apache Airflow (Docker), GCS, BigQuery.
+* **Process:** Used **PySpark** for complex transformations (null handling, schema normalization).
+* **Orchestration:** Orchestrated the end-to-end ELT workflow using **Apache Airflow** on Docker with CeleryExecutor.
+* **Impact:** Reduced manual transformation time by 95% and enabled scalable analytics.
+
+### 3. Real-Time Streaming Pipeline with Kafka & Spark
+* **Tech Stack:** Apache Kafka, PySpark Structured Streaming, PostgreSQL.
+* **Goal:** Developed a real-time ingestion system for clickstream data.
+* **Process:** Applied transformations like sliding window aggregations and deduplication.
+* **Result:** Stored results in **PostgreSQL OLAP** for real-time dashboards, supporting A/B testing and ensuring sub-second insights.
+
+### 4. Spotify Listening Data Pipeline (dbt & Airflow)
+* **Tech Stack:** Python, PostgreSQL, dbt, Airflow, GitHub Actions, Metabase.
+* **Modeling:** Used **dbt** to create models, snapshots, and incremental materializations.
+* **Automation:** Automated extraction and ingestion into **PostgreSQL** using **Airflow** and **GitHub Actions**.
+* **Result:** Enabled trend discovery and showcased data lineage and testing.
 
 ---
 
-## 📫 Contact
+## 💼 Experience Highlights
 
-- **Email:** ayoarinolaenioluwa@gmail.com  
-- **LinkedIn:** [ayo-arinola-enioluwa](https://www.linkedin.com/in/ayo-arinola-enioluwa-27640934a)  
-- **GitHub:** [semigod-dot-com](https://github.com/semigod-dot-com)
+| Role | Company | Key Contribution |
+| :--- | :--- | :--- |
+| **Data Engineer** | **ATechCoin** (Sep 2025 – Present) | Designed and managed scalable data pipelines; Replaced Firestore-BigQuery streaming extension with a custom **Node.js** pipeline. Developed BigQuery MERGE workflows for incremental ingestion and deduplication. |
+| **Data Analyst (Contract)** | **HealthBridge Clinics** (Jan 2025 – Apr 2025) | Created **Tableau** dashboards for KPIs. Automated weekly reports with **Python** and **SQL**, reducing reporting time by **80%**. |
+| **Business Data Analyst (Contract)** | **SwiftCart Retail** (Sep 2024 – Dec 2024) | Conducted **RFM analysis** and applied **K-Means clustering** for customer segmentation. |
 
 ---
 
+## 🎓 Certifications & Education
+* Google Data Analytics Professional Certificate – Coursera
+* Data Engineering Zoomcamp (Full Completion) – DataTalksClub
+* B.Sc. Agriculture (In Progress) – University of Ilorin
 Thanks for stopping by! Feel free to explore the projects, give feedback, or connect with me professionally.
