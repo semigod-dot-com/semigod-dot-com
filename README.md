@@ -1,8 +1,8 @@
 # ⚙️ Enioluwa Israel - Data Engineer | Data Analyst | AI/ML
 
 **Email:** ayoarinolaenioluwa@gmail.com
-**LinkedIn:** [YOUR LINKEDIN URL HERE] (e.g., http://www.linkedin.com/in/israel-dev-194b8136b)
-**GitHub:** [YOUR GITHUB PROFILE URL HERE] (e.g., https://github.com/semigod-dot-com)
+**LinkedIn:** [(http://www.linkedin.com/in/israel-dev-194b8136b] 
+**GitHub:** [https://github.com/semigod-dot-com]
 
 ---
 
